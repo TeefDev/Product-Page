@@ -50,7 +50,9 @@ Layout tweaks for smaller screens using media queries to keep cards and sections
 ## Technologies Used
 
  • HTML5 for semantic page structure
+ 
  • CSS3 for layout, styling, responsiveness, and hover effects
+ 
  • Git/GitHub for version control and project management
 
 No JavaScript or frameworks are used.
